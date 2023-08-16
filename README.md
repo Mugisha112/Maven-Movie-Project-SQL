@@ -5,7 +5,7 @@ You and your business partner were recently approached by another local business
 OBJECTIVE:
 Leverage your SQL skills to extract and analyze data from various tables in the Maven Movies database to answer your potential Acquirer’s questions. Each question will require you to write a multi-table SQL query, joining at least two tables.
 
-THE LETTERY FROM OWNER
+THE LETTERY FROM OWNER:
 Dear Maven Movies Management,
 I am excited about the potential acquisition and learning more about your rental business. Please bear with me as I am new to the industry, but I have a number of questions for you. Assuming you can answer them all, and that there are no major surprises, we should be able to move forward with the purchase.
 Best,
